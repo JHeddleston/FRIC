@@ -2,12 +2,17 @@
 headless: true
 ---
 
-[Home]({{< relref "/" >}})
+- [**Home**]({{< relref "/" >}})
 
 
-## How-To Posts
-- [About FIJI]({{< relref "/posts/aboutFIJI" >}})
-- [About Imaris]({{< relref "/posts/aboutImaris" >}})
+- **How-To**
+    - [About FIJI]({{< relref "/tutorials/aboutFIJI" >}})
+    - [About Imaris]({{< relref "/tutorials/aboutImaris" >}})
+</br>
 
+- **Resources**
+    - [Sample Code]({{< relref "/resources/code" >}})
+    - [Helpful References]({{< relref "/resources/articles" >}})
+</br>
 
-External Links
+**External Links**
